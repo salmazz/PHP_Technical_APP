@@ -1,5 +1,3 @@
-Here's an expanded version of the `README.md` file that includes information on the repository design pattern, service pattern, observer implementation, database schema, Postman collection, and test cases covered:
-
 ## README.md
 
 ```markdown
